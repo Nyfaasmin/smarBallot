@@ -66,6 +66,15 @@
 
 ---
 
+## 👥 Team Members
+
+This project was built with dedication and teamwork by the following members:
+
+- 👩‍💻 **Pathan Nyfa Asmin** – Team Leader, Android Developer, Logic & Database Handling 
+- 👩‍💻 **[Tanuja Polamuri]** – UI/UX Designer  
+- 👨‍💻 **[Hasini Thathapudi]** – Testing & Documentation
+
+---
 ## 📦 Installation & Setup
 
 1. Clone the repository:
